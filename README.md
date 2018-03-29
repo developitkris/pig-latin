@@ -1,6 +1,6 @@
 # _Pig Latin project_
 
-#### _, 03/28/2018_
+#### _This website converts paragraph text to Pig Latin , 03/28/2018_
 
 #### By _**Azamat Bekmuratov, Kristi Hwang**_
 
